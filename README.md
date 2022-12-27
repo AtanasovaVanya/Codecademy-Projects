@@ -4,7 +4,7 @@
  
  ```
  I skipped few courses from Web Development path because of their character (working in command line, testing..).
-Theese courses are:
+These courses are:
 
 - Learn the Command Line (discover the power of this simple yet essential text-based tool and increase your productivity as a developer);
 
