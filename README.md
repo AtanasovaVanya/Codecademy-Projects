@@ -32,6 +32,7 @@ Learn and practice the fundamentals of CSS to add beautiful styling to your webp
 2. css-breadcrumbs-implementation
 3. html-css-cheatsheet
 4. My-Website-Style-Guide
+5. The-Tea-Cozy
 
 ## Getting Started with JavaScript
 Learn the fundamentals of JavaScript: syntax, variables, conditionals, and functions.
