@@ -2,20 +2,7 @@
  These are projects I had to create to finish Web Development Path on Codecademy.  
  (https://www.codecademy.com)
  
- ```
- I skipped few courses from Web Development path because of their character (working in command line, testing..).
-These courses are:
-
-- Learn the Command Line (discover the power of this simple yet essential text-based tool and increase your productivity as a developer);
-
-- Learn Git (learn to save and manage different versions of your code projects with this essential too);
-
-- JavaScript Back-End Development (learn how to create back-end servers and APIs in JavaScript using the popular Express.js framework);
-
-- SQL and Databases for Web Development (learn the SQL fundamentals needed to be a successful full-stack web developer);
-
-- Test-Driven Development with JavaScript (master the fundamentals of Test-Driven Development to create reliable full-stack JavaScript web applications);
-``` 
+ 
 
 ## Learn HTML
 Get started as a web developer by learning the basics of HTML, the essential language of the web.
